@@ -1,4 +1,4 @@
-<h1>Hello, I'm Wendi! <br/><a href="https://github.com/joshmadakor1">Geospatial/GIS Analyst</a><a href="https://www.linkedin.com/in/wendi-zhang-7b815b198/"></h1>
+<h1>Hello, I'm Wendi! <br/><a href="https://github.com/Wendiz3">Geospatial/GIS Analyst</a><a href="https://www.linkedin.com/in/wendi-zhang-7b815b198/"></h1>
 
 <h2>🎓 Education</h2>
   
