@@ -1,4 +1,4 @@
-<h1>Hello, I'm Wendi! <br/><a href="https://github.com/Wendiz3">Geospatial/GIS Analyst</a><a href="https://www.linkedin.com/in/wendi-zhang-7b815b198/"></h1>
+<h1>Hello, I'm Wendi! <br/>I am a geomatics professional with a keen interest in leveraging remote sensing technologies in evidence-based landscape management and green equity advocacy. I am also passionate about data visualization and communication using various mapping approaches targeting different audiences.</h1>
 
 <h2>🎓 Education</h2>
   
@@ -8,7 +8,7 @@
   
 <h2>🗺 ePortfolio</h2>
   
-  <b>To learn more about my past projects, please check out my [ePortfolio](https://github.com/Wendiz3/Portfolio.git)<b>
+  <b>To learn more about my past projects, please check out my [ePortfolio](https://github.com/Wendiz3/Portfolio.git).<b>
 
 <h2>🔗 Connect with me</h2>
 
