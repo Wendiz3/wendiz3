@@ -6,9 +6,9 @@
   - Master of Geomatics for Environmental Management
   - Bachelor of Urban Forestry
   
-<h2>🗺 Project Portfolio</h2>
+<h2>🗺 ePortfolio</h2>
   
-  <b>[Please visit my digital portfolio](https://github.com/Wendiz3/Portfolio.git) to learn more about my past projects<b>
+  <b>To learn more about my past projects, please check out my [eportfolio](https://github.com/Wendiz3/Portfolio.git)<b>
 
 - <b>Decadal Grid Analysis of Landscape Metrics for Provincial Parks of British Columbia</b>
   - [ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/5e7d3c5ab62c417d8216964f617e2288)
