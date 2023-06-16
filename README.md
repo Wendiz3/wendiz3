@@ -8,10 +8,8 @@
   
 <h2>🗺 ePortfolio</h2>
   
-  <b>To learn more about my past projects, please check out my [ePortfolio](https://github.com/Wendiz3/Portfolio.git).<b>
+  To learn more about my past projects, please check out my <b>[ePortfolio](https://github.com/Wendiz3/Portfolio.git).<b>
 
 <h2>🔗 Connect with me</h2>
-
-[<img align="left" alt="Wendi Zhang | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/wendi-zhang-7b815b198/
+  
+<img align="left" alt="Wendi Zhang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[Linkedin](https://www.linkedin.com/in/wendi-zhang-7b815b198/)
