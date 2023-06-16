@@ -1,5 +1,4 @@
-<h1>Hello, I'm Wendi!</h1>
-<br/><b>I am a geomatics professional with a keen interest in leveraging remote sensing technologies in evidence-based landscape management and green equity advocacy. I am also passionate about data visualization and communication using various mapping approaches targeting different audiences.<b>
+<h1>Hello, I'm Wendi!</h1><p>I am a geomatics professional with a keen interest in leveraging remote sensing technologies in evidence-based landscape management and green equity advocacy. I am also passionate about data visualization and communication using various mapping approaches targeting different audiences.<p>
 
 <h2>🎓 Education</h2>
   
