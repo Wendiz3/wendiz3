@@ -8,7 +8,7 @@
   
 <h2>🗺 ePortfolio</h2>
   
-  To learn more about my past projects, please check out my <b>[ePortfolio](https://github.com/Wendiz3/Portfolio.git).<b>
+  To learn more about my past projects, please check out my <b>[ePortfolio](https://wendiz3.github.io/ePortfolio.github.io/).<b>
 
 <h2>🔗 Connect with me</h2>
   
